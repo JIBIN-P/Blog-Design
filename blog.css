@@ -1,0 +1,39 @@
+.date{
+	font-family: Source Sans Pro;
+	text-transform: uppercase;
+	color: #17CDED;
+	letter-spacing: 1px;
+}
+
+h1{
+	font-family: Source Sans Pro;
+	color: #385E63;
+}
+
+.border-left{
+	border-left: 4px solid #B4B4BA;
+	padding-left: 0.5%;
+	font-family: Source Sans Pro;
+	font-weight: 700;
+	color: #4E7070;
+	
+}
+
+p{
+	font-family: Source Sans Pro;
+	font-weight: 700;
+	color: #4E7070;
+}
+
+hr{
+	border-color: #B6B8BA;
+}
+
+body{
+	border: 15px solid #B4B4BA;
+	padding: 1.2%;
+	margin: 1.3% 20%;
+}
+
+
+/*#B4B4BA*/
